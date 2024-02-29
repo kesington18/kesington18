@@ -13,7 +13,8 @@ Skills:  HTML / CSS/ JAVASCRIPT
 - ⚡ Fun fact: I am a friendly introvert, i love playing games most especially CODM and watching Animes. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color="red">](https://github.com/https://github.com/kesington18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/KesingtonA87172?t=29s1VwYjT5n9qQIlpbzadg&s=09)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style={{backgroundColor: red}}>](https://github.com/https://github.com/kesington18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/KesingtonA87172?t=29s1VwYjT5n9qQIlpbzadg&s=09)
+<a href="https://github.com/https://github.com/kesington18">Github</a>
 
 
 
